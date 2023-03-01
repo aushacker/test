@@ -3,4 +3,4 @@ kind: Kustomization
 images:
 - name: nginx
   newName: docker.io/library/nginx
-  newTag: latest
+  newTag: "1.24"
